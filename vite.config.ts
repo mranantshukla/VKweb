@@ -1,8 +1,8 @@
-import { defineConfig } from 'vite';
-import react from '@vitejs/plugin-react';
+// vite.config.ts
+import { defineConfig } from 'vite'
+import react from '@vitejs/plugin-react'
 
-// https://vitejs.dev/config/
 export default defineConfig({
-  base: '/VKweb/', // 👈 very important
+  base: '/VKweb/', // 👈 this must match your repo name exactly
   plugins: [react()],
-});
+})
