@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://mranantshukla.github.io/VKweb/landing.html#",
+  "homepage": "https://mranantshukla.github.io/VKweb",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
